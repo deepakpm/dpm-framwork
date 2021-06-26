@@ -2,7 +2,8 @@
   "name": "dpm-framework",
   "version": "1.0.2",
   "description": "Framework for smart class",
-  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "main": "dist/index",
   "scripts": {
     "build": "tsc"
   },
